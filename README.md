@@ -1,5 +1,3 @@
-README.md
-
 I'm Jon Tam, a Full Stack Web Engineer building out robust, scalable and effective solutions for real world problems.
 
 I help small sized and medium businesses with a cost effective solution for their web presence.
